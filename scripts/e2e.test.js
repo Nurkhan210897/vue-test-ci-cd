@@ -1,0 +1,1 @@
+console.log('Проверка e2e.test.js');
